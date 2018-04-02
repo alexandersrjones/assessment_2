@@ -1,0 +1,32 @@
+#controls {
+    width:600px;
+    position:relative;
+}
+
+.range_slide {
+    width:50px;
+}
+
+#number_but {
+    background-color:black;
+    color:white;
+}
+
+#random_but {
+    background-color:pink;
+    color:grey;
+}
+
+#add_but {
+    background-color:grey;
+    color:white;
+}
+
+.ndiv {
+    display:inline-block;
+    width:100px;
+    height:100px;
+    left:0px;
+    margin:3px;
+    position:relative;
+}
